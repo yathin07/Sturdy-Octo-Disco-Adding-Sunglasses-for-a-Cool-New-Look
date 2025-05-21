@@ -26,8 +26,8 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 - Practicing computer vision workflows.
 
 ## Program:
-### Name : KISHORE B
-### Register Number : 212224100032
+### Name : YATHIN REDDDY T
+### Register Number : 212223100062
 ```
 import cv2
 import numpy as np
